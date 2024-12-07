@@ -1,7 +1,7 @@
 Age = 1
 
-while Age < 7:
+while Age < 10:
  print("Hello, world!")
  Age = Age + 1
-if Age == 7:
- print("Thats 7!")
+if Age == 10:
+ print("Thats 10!")
